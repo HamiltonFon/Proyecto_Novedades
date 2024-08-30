@@ -1,0 +1,32 @@
+.Banner {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;
+    height: auto;
+}
+
+.titulos{
+    font-size: 4em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    /*border: 5px solid black;*/
+}
+
+.power_bi{
+    text-align: center;
+    margin: auto;
+    max-width: 90%;
+    border: 5px solid grey;
+    box-shadow: 0 0 20px rgba(0,0,0,3);
+    
+}
+
+.iframe{
+    width: 90%;
+    height: 100%;
+}
+
+.prueba{
+    border: 5px solid brown;
+}
